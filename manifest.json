@@ -1,0 +1,14 @@
+{
+  "name": "Progetto Esame",
+  "short_name": "Progetto Esame",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#343a40",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "512x512 24x24"
+    }
+  ]
+}
